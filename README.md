@@ -1,7 +1,3 @@
-Here’s a clean, well-written **project description** you can use:
-
----
-
 ## 🎮 Missionaries and Cannibals Game – Description
 
 The **Missionaries and Cannibals Game** is a classic problem-based puzzle implemented using the **Pygame** library in Python. The objective of the game is to safely transport **three missionaries and three cannibals** from one side of a river to the other using a boat with a maximum capacity of two people.
@@ -41,9 +37,7 @@ The challenge lies in following a strict rule:
 
    ```bash
    python main.py
-   ```
-
----
+  
 
 If you want, I can also **upgrade this into a GitHub README**, **add algorithm explanation**, or **make it more human/casual for submission**.
 
